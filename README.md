@@ -25,3 +25,6 @@
 - FastAPI 서버 실행
  1. main.py실행
  2. Terminal : D:\phthonWorkSpace> uvicorn main:app --reload --port 8001(위치확인)
+---
+![image](https://github.com/user-attachments/assets/844509cd-81a7-46b4-a703-7ab202388358)
+
