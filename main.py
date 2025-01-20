@@ -63,5 +63,3 @@ async def read_item(item_id : int, q:str=None):
 # start : 시작만 하는 것
 # 서버종료
 # ctrl + c
-
-app.include_router(question_router.router)
